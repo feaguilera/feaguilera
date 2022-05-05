@@ -18,7 +18,7 @@
 
 Apaixonado por tecnologia, estudante na area de Segurança da Informação.
 
-##Últimos Videos:
+## Últimos Videos:
 - [LGPD, PCI-DSS e ISO 27001: uma análise das normas e leis perante um mundo transformado pela COVID-19](https://www.youtube.com/watch?v=Vk5FcadoCWI&t=80s)<br/>
 - [Replicação de um Cluster com Windows server 2016](https://www.youtube.com/watch?v=dwZLh_coLCg)<br/>
 - [ Replicação de dados no MySQL](https://www.youtube.com/watch?v=_JT5PNkkAGE)<br/>
