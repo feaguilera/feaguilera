@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Felipe Aguilera 🖖
 
-[![Blog](https://img.shields.io/website?label=FelipeAguileraBertolini.com&style=for-the-badge&url=https://feaguilera.github.io/portfolio/)](https://feaguilera.github.io/portfolio/)
+[![Blog](https://img.shields.io/website?label=Porfolio&style=for-the-badge&url=https://feaguilera.github.io/portfolio/)](https://feaguilera.github.io/portfolio/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmxS_cnOONLbuIcV2T9XyGw)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-aguilera-bertolini/)
 
